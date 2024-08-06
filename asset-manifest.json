@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/E-Commerce/static/css/main.6dfe2590.css",
+    "main.js": "/E-Commerce/static/js/main.7b270104.js",
+    "index.html": "/E-Commerce/index.html",
+    "main.6dfe2590.css.map": "/E-Commerce/static/css/main.6dfe2590.css.map",
+    "main.7b270104.js.map": "/E-Commerce/static/js/main.7b270104.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6dfe2590.css",
+    "static/js/main.7b270104.js"
+  ]
+}
